@@ -10,4 +10,4 @@ File.ReadAllLines("input.txt").ToList().ForEach(line =>
         temp = 0;
     }
 });
-Console.WriteLine($"{max} calories carried by an elf");
+Console.WriteLine($"{max} total calories carried by the elf with the most");
